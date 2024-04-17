@@ -1,1 +1,1 @@
-# Eternal-Odyssey-pseudocode
+# Eternal-Odyssey-Pseudocode
